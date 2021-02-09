@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">ReminderObaat</string>
+    <string name="hint_enter_med_name">Masukkan nama obat</string>
+    <string name="repeat_off">Off</string>
+    <string name="action_discard_reminder">Batal</string>
+    <string name="action_save_reminder">Tersimpan</string>
+
+    <string name="title_activity_add_reminder">Buat Baru</string>
+    <string name="title_activity_edit_reminder">Edit Pengingat</string>
+    <string name="title_activity_licenses">Licenses</string>
+</resources>
